@@ -49,5 +49,5 @@ All of this bodes well for future expansion of the project. Other directions we 
 
 Github directories of team:
 [Alex Nguyen](https://github.com/aL1asWIN/) 
-[Javier Martinez](https://github.com/eamonious)
-[Eamon Fleming]()
+[Javier Martinez](https://github.com/javimtza)
+[Eamon Fleming](https://github.com/eamonious)
