@@ -1,4 +1,4 @@
-[PLEASE NOTE: A fully-rendered version of the project workbook can be viewed here](https://nbviewer.jupyter.org/gist/eamonious/1dd3226577714b84db4a7e0387a64baf)
+[PLEASE NOTE: A fully-rendered version of the project workbook can be viewed here](https://nbviewer.jupyter.org/github/javimtza/disaster-tweet-classification/blob/b6be0c30437eb5219e9d0f5bc6c6c25b70844920/Disaster%20Tweet%20Classification%20Workbook.ipynb)
 
 
 # Leveraging Social Media To Alert Emergency Response Personnel During Disasters
